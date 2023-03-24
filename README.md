@@ -1,7 +1,7 @@
 ### 👋 Hi there, i'm Taqib Ibrahim.
 
 <br />
-## About me
+### About me
 
 - 🔭 I’m currently working on ...
 <br />
