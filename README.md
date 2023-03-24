@@ -4,16 +4,16 @@
 
 ## About me
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on becoming a fullstack developer.
 
-- 🌱 I’m currently learning React.js.
+- 🌱 I’m currently learning **React.js**.
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on small open-source projects.
 
-- 🤔 I’m looking for help with learning about Web accessibility.
+- 🤔 I’m looking for help with learning about **Web accessibility**.
 
-- 💬 Ask me about HTML && CSS.
+- 💬 Ask me about **HTML** && **CSS**.
 
-- 📫 How to reach me: (taqib.ibrahim@gmail.com).
+- 📫 How to reach me: taqib.ibrahim@gmail.com  or on twitter [@_Mihaq](https://twitter.com/_Mihaq).
 
-- ⚡ Fun fact: ...
+- 💞 I love cats.
