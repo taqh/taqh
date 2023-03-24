@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Hi there, i'm Taqib Ibrahim.
 
-<!--
-**Dom-iha/Dom-iha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<br />
+## About me
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<br />
+- 🌱 I’m currently learning React.js.
+<br />
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+<br />
+- 🤔 I’m looking for help with learning about Web accessibility.
+<br />
+- 💬 Ask me about HTML && CSS.
+<br />
+- 📫 How to reach me: (taqib.ibrahim@gmail.com).
+<br />
 - ⚡ Fun fact: ...
--->
