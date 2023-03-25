@@ -15,5 +15,3 @@
 - 💬 Ask me about **HTML** & **CSS**.
 
 - 📫 How to reach me: taqib.ibrahim@gmail.com  or on twitter [@_Mihaq](https://twitter.com/_Mihaq).
-
-- 💞 I love cats.
