@@ -1,4 +1,4 @@
-### <h1>Hi there! 👋 </h1> 
+# Hi there! 👋  
 
 ## I'm Taqib Ibrahim.
 
