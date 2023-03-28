@@ -4,8 +4,6 @@
 
 <br />
 
-## About me
-
 - 🔭 I’m currently working on becoming a fullstack developer.
 
 - 🌱 I’m currently learning **React.js**.
