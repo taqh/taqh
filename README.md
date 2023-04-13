@@ -2,8 +2,6 @@
 
 ### I'm Taqib Ibrahim.
 
-<br />
-
 - 🔭 I’m currently working on becoming a fullstack developer.
 
 - 🌱 I’m currently learning **React.js**.
