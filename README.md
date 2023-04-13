@@ -1,6 +1,6 @@
-# Hi there! 👋  
+## Hi there! 👋  
 
-## I'm Taqib Ibrahim.
+### I'm Taqib Ibrahim.
 
 <br />
 
