@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on becoming a fullstack developer.
 
-- 🌱 I’m currently learning **React.js**.
+- 🌱 I’m currently learning **Node.js**.
 
-- 👯 I’m looking to collaborate on small open-source projects.
+- 👯 I’m looking to collaborate on open-source projects.
 
 - 🤔 I’m looking for help with learning about **Web accessibility**.
 
