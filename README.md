@@ -10,6 +10,6 @@
 
 - 🤔 I’m looking for help with learning about **Web accessibility**.
 
-- 💬 Ask me about **HTML** & **CSS**.
+- 💬 Ask me about **HTML**, **CSS** & **JS**.
 
 - 📫 How to reach me: taqib.ibrahim@gmail.com.
